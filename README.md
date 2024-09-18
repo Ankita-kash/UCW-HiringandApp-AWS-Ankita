@@ -35,6 +35,6 @@ AWS Services: Amazon S3, AWS Glue, AWS GlueDatabrew, Amazon DynamoDB, AWS Athena
 1. Enhance Communication: Provide clearer communication about job role expectations and benefits to reduce declines, especially for entry-level roles.
 2. Targeted Offer Strategies: For roles with high decline rates, consider adjusting salary packages or offering additional perks to improve acceptance rates.
 # Deliverables
-A concise, visual presentation that highlights the key findings (acceptance trends, decline causes), and offers recommendations for improving the hiring and offer process.
-This presentation is designed for HR managers and decision-makers to help them take immediate actions based on the insights.
-Bar charts, and pie charts are used to make the data easy to understand and act upon.
+. A concise, visual presentation that highlights the key findings (acceptance trends, decline causes), and offers recommendations for improving the hiring and offer process.
+. This presentation is designed for HR managers and decision-makers to help them take immediate actions based on the insights.
+. Bar charts, and pie charts are used to make the data easy to understand and act upon.
